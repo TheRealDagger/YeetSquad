@@ -1,0 +1,11 @@
+body {
+    background-image: url(119369-top-cool-backgrounds-for-tumblr-2048x1280-for-ipad-pro.jpg);
+    
+    color: chartreuse;
+    text-align: center;
+    font-family: monospace;
+    font-size: 124;
+
+
+
+}
